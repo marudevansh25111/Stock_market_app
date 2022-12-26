@@ -1,2 +1,2 @@
 # Stock_market_app
-this app is crete in react js and mogoDB is useed ad database
+This app is made in react js and mongo db is used as database.
